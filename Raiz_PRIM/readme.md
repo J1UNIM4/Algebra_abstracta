@@ -1,6 +1,15 @@
 ARITMETICA MODULAR
 
 ALGORITMO PARA SACAR LAS RAICES PRIMITVAS RELATIVAMENTE PEQUEÑAS
+
+
 PROBLEMA DEL LOGARITMO DISCRETO
+
+
 q^k= r (mod p)
+
+
 k^p-1= 1; por el pequeño teorema de fermant
+
+
+Ingrese un numero: 13 
